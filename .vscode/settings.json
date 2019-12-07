@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/dhkang/.pyenv/versions/sample-env/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
