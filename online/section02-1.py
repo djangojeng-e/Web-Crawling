@@ -28,5 +28,12 @@ else:
     print(header1)
     print(header2)
 
+    # 다운로드 파일 정보 
+
+    print('Filename1 {}'.format(file1))
+    print('Filename2 {}'.format(file2))
+    print()
 # http 통신은 한번 연결후 끊기면 끝나는 구조 
 
+    # 성공 
+    print('Download Succeed')
